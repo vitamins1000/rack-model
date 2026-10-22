@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+build/
+dist/
+jobs/
+archive/
+stl/
+previews/
+*.blend1
+.DS_Store

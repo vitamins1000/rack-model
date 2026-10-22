@@ -1,0 +1,1 @@
+DESIGN = {"name": "blank_2u", "units": 2, "depth": 12.0, "handles": True, "features": [{"kind": "recess", "u": 6.0, "v": 2.50, "w": 48.0, "h": 0.8, "depth": 0.6}, {"kind": "recess", "u": 6.0, "v": 5.01, "w": 48.0, "h": 0.8, "depth": 0.6}, {"kind": "recess", "u": 6.0, "v": 7.51, "w": 48.0, "h": 0.8, "depth": 0.6}]}
